@@ -11,11 +11,11 @@ This is my EFI folder for OpenCore. It is based on the [OpenCore Desktop Guide](
 
 ## What works
 
-- [ ] Accelerated graphics
-- [ ] Audio
-- [ ] Ethernet
-- [ ] Bluetooth
-- [ ] USB
+- [X] Accelerated graphics
+- [X] Audio
+- [X] Ethernet
+- [X] Bluetooth
+- [X] USB
 - [ ] Sleep
-- [ ] Shutdown
-- [ ] Restart
+- [X] Shutdown
+- [X] Restart
