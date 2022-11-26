@@ -1,0 +1,19 @@
+ 1. HS01 | AppleUSB20XHCIPort |  1 (01000000) | 14100000 | Type 3 			- Porta USB 2.0 Esquerda Acima do VGA
+ 2. HS02 | AppleUSB20XHCIPort |  2 (02000000) | 14200000 | Type 3 			- Porta USB 2.0 Direita Acima do VGA
+T:1,2:0
+
+ 9. HS09 | AppleUSB20XHCIPort |  9 (09000000) | 14900000 | Type 3			- Porta USB 2.0 Esquerda
+10. HS10 | AppleUSB20XHCIPort | 10 (0a000000) | 14a00000 | Type 3			- Porta USB 2.0 Direita
+T:9,10:0
+
+12. SS02 | AppleUSB30XHCIPort | 18 (12000000) | 14c00000 | Type 3			- Porta USB 3.0 Esquerda
+11. SS01 | AppleUSB30XHCIPort | 17 (11000000) | 14b00000 | Type 3 			- Porta USB 3.0 Direita
+T:11,12:3
+
+ 8. HS08 | AppleUSB20XHCIPort |  8 (08000000) | 14800000 | Type 3 			- Porta USB 3.0 em 2.0 Esquerda
+ 7. HS07 | AppleUSB20XHCIPort |  7 (07000000) | 14700000 | Type 3 			- Porta USB 3.0 em 2.0 Direita
+T:8,7:0
+
+ 4. HS04 | AppleUSB20XHCIPort |  4 (04000000) | 14400000 | Type 3 			- Frontal Direita
+ 3. HS03 | AppleUSB20XHCIPort |  3 (03000000) | 14300000 | Type 3 			- Frontal Esquerda
+T:3,4:0
